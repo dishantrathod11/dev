@@ -1,5 +1,3 @@
-# dev
-Customer Churn Prediction 
 # Customer Churn Prediction Project
 
 ## 📅 Project Overview
